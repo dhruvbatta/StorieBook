@@ -1,0 +1,17 @@
+# StorieBook - Required Python Packages
+
+# Core dependencies
+streamlit>=1.28.0
+google-generativeai>=0.3.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Data handling (for future database support)
+# Uncomment when needed:
+# firebase-admin>=6.2.0
+# redis>=5.0.0
+# supabase>=2.0.0
+
+# Utilities
+typing-extensions>=4.8.0
